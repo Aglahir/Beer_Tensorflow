@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bohemia pilsner botella 355ml</folder>
+	<filename>IMG_1390.JPG</filename>
+	<path>C:\Users\mimit\OneDrive\5 semestre\semana_i\Bohemia pilsner botella 355ml\IMG_1390.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bohemiaP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>866</xmin>
+			<ymin>1417</ymin>
+			<xmax>3710</xmax>
+			<ymax>2395</ymax>
+		</bndbox>
+	</object>
+</annotation>
