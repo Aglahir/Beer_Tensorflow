@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sol Clamato lata 473ml</folder>
+	<filename>IMG_1282.JPG</filename>
+	<path>C:\Users\mauri\Desktop\Documentos Tec\ITC\Semana i\Sol clamato lata 473ml\Sol Clamato lata 473ml\IMG_1282.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>670</ymin>
+			<xmax>3384</xmax>
+			<ymax>1849</ymax>
+		</bndbox>
+	</object>
+</annotation>
