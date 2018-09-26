@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Bohemia pilsner botella 355ml</folder>
 	<filename>IMG_1447.JPG</filename>
-	<path>C:\Users\mimit\OneDrive\5 semestre\semana_i\Bohemia pilsner botella 355ml\IMG_1447.JPG</path>
+      <path>C:\Users\mimit\OneDrive\5 semestre\semana_i\Bohemia pilsner botella 355ml\IMG_1447.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,3 +24,8 @@
 		</bndbox>
 	</object>
 </annotation>
+
+
+
+
+

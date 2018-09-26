@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Bohemia pilsner botella 355ml</folder>
 	<filename>IMG_1381.JPG</filename>
-	<path>C:\Users\mimit\OneDrive\5 semestre\semana_i\Bohemia pilsner botella 355ml\IMG_1381.JPG</path>
+      <path>C:\Users\mimit\OneDrive\5 semestre\semana_i\Bohemia pilsner botella 355ml\IMG_1381.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -16,11 +16,18 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<bndbox>
+		<bndbox> 
 			<xmin>966</xmin>
-			<ymin>1502</ymin>
-			<xmax>3686</xmax>
-			<ymax>2422</ymax>
+      		<ymin>1502</ymin>        
+      		<xmax>3686</xmax>         
+      		<ymax>2422</ymax>
 		</bndbox>
 	</object>
 </annotation>
+
+
+
+
+
+
+
