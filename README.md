@@ -10,7 +10,7 @@ You can check out our project using google drive: https://drive.google.com/drive
 
 * Label images with label img for Windows
 
-* Created app in Android to take images from the phone, to later process them with a remote backend
+* Created app in Android to take images from the phone, to later process them with a remote backend https://drive.google.com/file/d/1tpctOWFp2z8Z1NahNURXrBjh5g2v27Vs/view 
 
 * Run training algorithm with Tensorflow in a laptop with certain dataset
 
